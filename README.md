@@ -3,7 +3,7 @@
 WIP
 usage
 
-```typescript
+```jsx
 <ReactHtml
   html={myHtmlContent}
   Components={{
